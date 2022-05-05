@@ -4,6 +4,7 @@
 The objective of this analysis is to summarize how the data differs by city type and how those difference can be used by decision-makers at PyBer. 
 
 ## Results 
+![Alt text](/Summary_data_frame.png "Image")
 
 Summary Data Frame Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 

@@ -14,9 +14,9 @@ As seen in the summary data frame, as expected, urban areas have a larger demand
 
 ![Alt text](/Multiple_line_chart.png "Image")
 
-While analyzing the fares by city over several month, 
+While analyzing the fares by city type over several months, there is no abnormality detecable. The pattern remains more or less stable for January until April, with peaks around the end of February for rural, suburban and urban city types. 
 
-describe the differences in ride-sharing data among the different city types.
-
-
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Business Recommendations
+- Focus all efforts on urban city areas to increase ride(s) (fares) further
+- Remove service for rural city areas in order to cut costs due to low number of rides
+- Increase marketing/advertising in suburban areas to make it as profitable as urban areas
